@@ -1,8 +1,9 @@
+### Hi there 👋
+
 <a href="https://github.com/eliotcao">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eliotcao&count_private=true&show_icons=true" height="230"/>
 </a>
 
-### Hi there 👋
 <!--
 **EliotCao/EliotCao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
