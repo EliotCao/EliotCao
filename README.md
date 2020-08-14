@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://github.com/eliotcao">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=eliotcao&count_private=true&include_all_commits=true&show_icons=true&theme=cobalt" height="230"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=eliotcao&count_private=true&show_icons=true&theme=cobalt" height="230"/>
 </a>
 
 <!--
