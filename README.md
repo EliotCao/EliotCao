@@ -1,9 +1,15 @@
 ### Hi there 👋
 
+<!--
 <a href="https://github.com/eliotcao">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=eliotcao&count_private=true&show_icons=true&theme=cobalt" height="230"/>
+</a>-->
+<a href="https://github.com/eliotcao">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eliotcao&count_private=true&show_icons=true&theme=cobalt" />
 </a>
-
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliotcao&&hide=vue,c%23" />
+</a>
 <!--
 **EliotCao/EliotCao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
