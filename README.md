@@ -20,19 +20,24 @@
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
-</div>
-
 
 <!--
-<a href="https://github.com/eliotcao">
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=souying&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=souying&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
+-->
+
+<!--
+<a height="137px" href="https://github.com/eliotcao">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=eliotcao&count_private=true&show_icons=true&theme=cobalt" height="230"/>
 </a>-->
-<a href="https://github.com/eliotcao">
+<a height="137px" href="https://github.com/eliotcao">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eliotcao&count_private=true&show_icons=true&theme=cobalt" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliotcao" />
+  <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliotcao" />-->
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eliotcao&layout=compact&langs_count=6&theme=cobalt" />
 </a>
+</div>
 <!--
 **EliotCao/EliotCao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
