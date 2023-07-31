@@ -1,14 +1,13 @@
 ### Hi there 👋
-
+<div align="center">
+  
 <!-- 参考https://github.com/BEPb/BEPb -->
-![header_](https://github.com/EliotCao/EliotCao/assets/15886777/5d30c8b2-957f-43af-8d07-8a2c70c03afb)
+<!-- ![header](https://github.com/EliotCao/EliotCao/assets/15886777/5d30c8b2-957f-43af-8d07-8a2c70c03afb) -->
 
 <!-- 参考https://github.com/souying/souying -->
-<div align="center">
 <!-- programming tool icon 编程工具图标 -->
 <!-- <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br> -->
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,wasm,nodejs,tailwind,react,redux,vue,nestjs,nextjs,webpack,babel,vite,angular,c,cpp,rust,tauri,go,java,py,spring,kafka,rabbitmq,rocket,graphql,mongodb,mysql,redis,nginx,grafana,prometheus,ai,pytorch,tensorflow,ros,bash,powershell,vim,cmake,gradle,maven,jenkins,jest,git,docker,kubernetes,linux,md,latex,idea,vscode,postman,blender,github,vercel,stackoverflow,twitter,discord,instagram" /><br>
-
 
 <!-- svg -->
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
