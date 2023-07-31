@@ -8,6 +8,7 @@
 <!-- programming tool icon 编程工具图标 -->
 <!-- <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br> -->
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,wasm,nodejs,tailwind,react,redux,vue,nestjs,nextjs,webpack,babel,vite,angular" /><br>
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,tauri,go,java,py,spring,kafka,rabbitmq,rocket,graphql,mongodb,mysql,redis,nginx,grafana,prometheus,ai,pytorch,tensorflow,ros" /><br>
 
 
 <!-- svg -->
