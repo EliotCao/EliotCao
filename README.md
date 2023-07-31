@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![header_](https://github.com/EliotCao/EliotCao/assets/15886777/5d30c8b2-957f-43af-8d07-8a2c70c03afb)
+
+
 <!--
 <a href="https://github.com/eliotcao">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=eliotcao&count_private=true&show_icons=true&theme=cobalt" height="230"/>
