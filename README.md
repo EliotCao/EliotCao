@@ -7,7 +7,7 @@
 <!-- 参考https://github.com/souying/souying -->
 <!-- programming tool icon 编程工具图标 -->
 <!-- <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br> -->
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,wasm,nodejs,tailwind,react,redux,vue,nextjs,webpack,babel,vite,angular,c,cpp,rust,tauri,go,java,py,spring,kafka,rabbitmq,rocket,graphql,mongodb,mysql,redis,nginx,grafana,prometheus,ai,pytorch,tensorflow,ros,bash,powershell,vim,cmake,gradle,maven,jenkins,jest,git,docker,kubernetes,linux,md,latex,idea,vscode,postman,blender,github,vercel,stackoverflow,twitter,discord,instagram" /><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,wasm,nodejs,tailwind,react,redux,vue,nextjs,webpack,babel,vite,c,cpp,rust,tauri,go,java,py,spring,kafka,rabbitmq,rocket,graphql,mongodb,mysql,redis,nginx,grafana,prometheus,ai,pytorch,tensorflow,ros,bash,powershell,vim,cmake,gradle,maven,jenkins,jest,git,docker,kubernetes,linux,md,latex,idea,vscode,postman,blender,github,vercel,stackoverflow,twitter,discord,instagram" /><br>
 
 <!-- svg -->
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
