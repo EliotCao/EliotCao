@@ -10,6 +10,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,wasm,nodejs,tailwind,react,redux,vue,nextjs,webpack,babel,vite,c,cpp,rust,tauri,go,java,py,spring,kafka,rabbitmq,rocket,graphql,mongodb,mysql,redis,nginx,grafana,prometheus,ai,pytorch,tensorflow,ros,bash,powershell,vim,cmake,gradle,maven,jenkins,jest,git,docker,kubernetes,linux,md,latex,idea,vscode,postman,blender,github,vercel,stackoverflow,twitter,discord,instagram" /><br>
 
 <!-- svg -->
+<!--
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
@@ -21,6 +22,7 @@
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
+-->
 
 <!--
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=souying&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
